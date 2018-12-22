@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="store-seckill-web:war">
+    <output-path>$PROJECT_DIR$/store-seckill-web/target</output-path>
+    <root id="archive" name="store-seckill-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="store-seckill-web:war exploded" />
+    </root>
+  </artifact>
+</component>

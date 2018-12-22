@@ -1,0 +1,4 @@
+com\store\search\service\impl\ItemSearchListener.class
+com\store\solrutil\SolrUtil.class
+com\store\search\service\impl\ItemDeleteListener.class
+com\store\search\service\impl\ItemSearchServiceImpl.class

@@ -1,0 +1,4 @@
+com\store\seckill\controller\SeckillOrderController.class
+com\store\seckill\controller\SeckillGoodsController.class
+com\store\user\service\UserDetailServiceImpl.class
+com\store\seckill\controller\PayController.class

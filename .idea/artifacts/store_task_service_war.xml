@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="store-task-service:war">
+    <output-path>$PROJECT_DIR$/store-task-service/target</output-path>
+    <root id="archive" name="store-task-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="store-task-service:war exploded" />
+    </root>
+  </artifact>
+</component>

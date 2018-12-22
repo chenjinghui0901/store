@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:44:33 +0800] "GET / HTTP/1.1" 304 - http-bio-9103-exec-1 390
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:44:33 +0800] "GET /%7B%7Bitem.pic%7D%7D HTTP/1.1" 404 991 http-bio-9103-exec-3 47
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:44:35 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 404 995 http-bio-9103-exec-2 21
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:44:52 +0800] "GET /content/findByCategoryId.do?categoryId=1 HTTP/1.1" 200 799 http-bio-9103-exec-4 16777
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:53 +0800] "GET /%7B%7Bitem.pic%7D%7D HTTP/1.1" 404 991 http-bio-9103-exec-8 6
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:56 +0800] "GET /content/findByCategoryId.do?categoryId=1 HTTP/1.1" 200 799 http-bio-9103-exec-10 974

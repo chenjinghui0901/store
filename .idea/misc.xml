@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/store-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-common" />
+    <file type="web" url="file://$PROJECT_DIR$/store-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/store-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-pojo" />
+    <file type="web" url="file://$PROJECT_DIR$/store-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-sellergoods-serivce" />
+    <file type="web" url="file://$PROJECT_DIR$/store-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/store-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/store-user-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/store-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/store-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/sms-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

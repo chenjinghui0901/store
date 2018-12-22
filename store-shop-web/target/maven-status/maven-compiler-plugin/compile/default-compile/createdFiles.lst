@@ -1,0 +1,7 @@
+com\store\shop\controller\GoodsController.class
+com\store\shop\controller\LoginController.class
+com\store\shop\controller\TypeTemplateController.class
+com\store\shop\controller\ItemCatController.class
+com\store\service\UserDetailsServiceImpl.class
+com\store\shop\controller\SellerController.class
+com\store\shop\controller\UploadController.class

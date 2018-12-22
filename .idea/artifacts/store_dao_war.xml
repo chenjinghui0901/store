@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="store-dao:war">
+    <output-path>$PROJECT_DIR$/store-dao/target</output-path>
+    <root id="archive" name="store-dao-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="store-dao:war exploded" />
+    </root>
+  </artifact>
+</component>

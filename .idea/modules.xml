@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Eclipse/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/../../Eclipse/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms-service/sms-service.iml" filepath="$PROJECT_DIR$/sms-service/sms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-cart-interface/store-cart-interface.iml" filepath="$PROJECT_DIR$/store-cart-interface/store-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-cart-service/store-cart-service.iml" filepath="$PROJECT_DIR$/store-cart-service/store-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-cart-web/store-cart-web.iml" filepath="$PROJECT_DIR$/store-cart-web/store-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-common/store-common.iml" filepath="$PROJECT_DIR$/store-common/store-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-content-interface/store-content-interface.iml" filepath="$PROJECT_DIR$/store-content-interface/store-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-content-service/store-content-service.iml" filepath="$PROJECT_DIR$/store-content-service/store-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-dao/store-dao.iml" filepath="$PROJECT_DIR$/store-dao/store-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-manager-web/store-manager-web.iml" filepath="$PROJECT_DIR$/store-manager-web/store-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-order-interface/store-order-interface.iml" filepath="$PROJECT_DIR$/store-order-interface/store-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-order-service/store-order-service.iml" filepath="$PROJECT_DIR$/store-order-service/store-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-page-interface/store-page-interface.iml" filepath="$PROJECT_DIR$/store-page-interface/store-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-page-service/store-page-service.iml" filepath="$PROJECT_DIR$/store-page-service/store-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-page-web/store-page-web.iml" filepath="$PROJECT_DIR$/store-page-web/store-page-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-parent/store-parent.iml" filepath="$PROJECT_DIR$/store-parent/store-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-pay-interface/store-pay-interface.iml" filepath="$PROJECT_DIR$/store-pay-interface/store-pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-pay-service/store-pay-service.iml" filepath="$PROJECT_DIR$/store-pay-service/store-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-pojo/store-pojo.iml" filepath="$PROJECT_DIR$/store-pojo/store-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-portal-web/store-portal-web.iml" filepath="$PROJECT_DIR$/store-portal-web/store-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-search-interface/store-search-interface.iml" filepath="$PROJECT_DIR$/store-search-interface/store-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-search-service/store-search-service.iml" filepath="$PROJECT_DIR$/store-search-service/store-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-search-web/store-search-web.iml" filepath="$PROJECT_DIR$/store-search-web/store-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-seckill-interface/store-seckill-interface.iml" filepath="$PROJECT_DIR$/store-seckill-interface/store-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-seckill-service/store-seckill-service.iml" filepath="$PROJECT_DIR$/store-seckill-service/store-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-seckill-web/store-seckill-web.iml" filepath="$PROJECT_DIR$/store-seckill-web/store-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-sellergoods-interface/store-sellergoods-interface.iml" filepath="$PROJECT_DIR$/store-sellergoods-interface/store-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-sellergoods-service/store-sellergoods-service.iml" filepath="$PROJECT_DIR$/store-sellergoods-service/store-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-shop-web/store-shop-web.iml" filepath="$PROJECT_DIR$/store-shop-web/store-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-task-service/store-task-service.iml" filepath="$PROJECT_DIR$/store-task-service/store-task-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-user-interface/store-user-interface.iml" filepath="$PROJECT_DIR$/store-user-interface/store-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-user-service/store-user-service.iml" filepath="$PROJECT_DIR$/store-user-service/store-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-user-web/store-user-web.iml" filepath="$PROJECT_DIR$/store-user-web/store-user-web.iml" />
+    </modules>
+  </component>
+</project>

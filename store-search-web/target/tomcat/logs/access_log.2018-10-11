@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:46:10 +0800] "GET /search.html HTTP/1.1" 200 24477 http-bio-9104-exec-1 315
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:46:10 +0800] "GET /%7B%7Bitem.image%7D%7D HTTP/1.1" 404 995 http-bio-9104-exec-3 16
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:46:11 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 404 995 http-bio-9104-exec-2 24
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:46:31 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-4 20551
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:47:32 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-6 170
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:47:48 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-7 131
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:47:49 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-8 135
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:03 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-9 130
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:49 +0800] "GET /search.html HTTP/1.1" 304 - http-bio-9104-exec-10 13
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:49 +0800] "GET /%7B%7Bitem.image%7D%7D HTTP/1.1" 404 995 http-bio-9104-exec-10 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:48:58 +0800] "POST /itemsearch/search.do HTTP/1.1" 200 16384 http-bio-9104-exec-10 8365
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:49:27 +0800] "GET /%7B%7Bitem.image%7D%7D HTTP/1.1" 404 995 http-bio-9104-exec-6 8
+0:0:0:0:0:0:0:1 - - [11/Oct/2018:21:49:28 +0800] "POST /itemsearch/search.do HTTP/1.1" 500 15947 http-bio-9104-exec-6 161

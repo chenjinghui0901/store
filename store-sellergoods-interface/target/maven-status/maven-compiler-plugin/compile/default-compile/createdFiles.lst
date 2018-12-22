@@ -1,0 +1,6 @@
+com\store\sellergoods\service\SellerService.class
+com\store\sellergoods\service\SpecificationService.class
+com\store\sellergoods\service\BrandService.class
+com\store\sellergoods\service\ItemCatService.class
+com\store\sellergoods\service\TypeTemplateService.class
+com\store\sellergoods\service\GoodsService.class

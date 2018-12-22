@@ -1,0 +1,14 @@
+com\store\manager\controller\ContentController.class
+com\store\manager\controller\BrandController.class
+com\store\manager\controller\LoginController.class
+com\store\manager\controller\UploadController.class
+com\store\manager\controller\TypeTemplateController.class
+com\store\manager\controller\SpecificationController.class
+com\store\manager\controller\ContentCategoryController.class
+com\store\manager\controller\GoodsController$3.class
+com\store\manager\controller\GoodsController$2.class
+com\store\manager\controller\SellerController.class
+com\store\manager\controller\GoodsController$4.class
+com\store\manager\controller\GoodsController$1.class
+com\store\manager\controller\ItemCatController.class
+com\store\manager\controller\GoodsController.class

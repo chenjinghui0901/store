@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="store-cart-service:war">
+    <output-path>$PROJECT_DIR$/store-cart-service/target</output-path>
+    <root id="archive" name="store-cart-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="store-cart-service:war exploded" />
+    </root>
+  </artifact>
+</component>
